@@ -22,7 +22,7 @@ const Header = () => {
     <Navbar className="shadow-lg mb-2 rounded-2xl" fluid>
       <Navbar.Brand href="/">
         <span className="self-center whitespace-nowrap text-xl font-semibold dark:text-white">
-          Sanber Daily
+          Dimas Chandra Winata
         </span>
       </Navbar.Brand>
       <div className="flex md:order-2">
@@ -32,7 +32,7 @@ const Header = () => {
           label={
             <Avatar
               alt="User settings"
-              img="https://flowbite.com/docs/images/people/profile-picture-5.jpg"
+              img="https://i.pinimg.com/564x/66/19/7e/66197e8cbf082d3dd26f32e9cf5cbab6.jpg"
               rounded
             />
           }

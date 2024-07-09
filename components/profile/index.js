@@ -294,7 +294,7 @@ const Profile = () => {
                       className="text-lg leading-6 font-medium text-gray-900"
                       id="modal-headline"
                     >
-                      Delete Post
+                      Edit
                     </h3>
                     <div className="mt-2">
                       <p className="text-sm text-gray-500">
